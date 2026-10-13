@@ -1,0 +1,12 @@
+<svg width="300" height="220" viewBox="0 0 300 220" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="300" height="220" rx="28" fill="#FFF9EA"/>
+  <path d="M150 30L212 56V105C212 146 185 174 150 188C115 174 88 146 88 105V56L150 30Z" fill="#173B70"/>
+  <path d="M150 44L198 64V103C198 136 177 160 150 172C123 160 102 136 102 103V64L150 44Z" fill="#2C6BE7"/>
+  <circle cx="150" cy="98" r="28" fill="#FFF9EA"/>
+  <path d="M150 82V102" stroke="#173B70" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="150" cy="117" r="5" fill="#173B70"/>
+  <rect x="48" y="144" width="82" height="38" rx="19" fill="#FFFFFF" stroke="#E3D49D"/>
+  <text x="89" y="168" text-anchor="middle" fill="#9B6B00" font-size="20" font-weight="700" font-family="Arial, sans-serif">SAFE</text>
+  <rect x="170" y="144" width="82" height="38" rx="19" fill="#FFFFFF" stroke="#D8E5F7"/>
+  <text x="211" y="168" text-anchor="middle" fill="#2C6BE7" font-size="20" font-weight="700" font-family="Arial, sans-serif">CHECK</text>
+</svg>
